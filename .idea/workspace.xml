@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52b6d6b-ddab-4da9-93c6-21cc44c9c20e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BodyMassIndexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FruitStoreCashRegister.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,7 @@
   "keyToString": {
     "Application.AreaOfCircleCalculator.executor": "Run",
     "Application.BodyMassIndexCalculator.executor": "Run",
+    "Application.FruitStoreCashRegister.executor": "Debug",
     "Application.GradeAverageCalculator.executor": "Run",
     "Application.TaximeterCalculator.executor": "Run",
     "Application.TriangleAreaCalculator.executor": "Run",
@@ -101,5 +102,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FruitStoreCashRegister.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FruitStoreCashRegister.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
