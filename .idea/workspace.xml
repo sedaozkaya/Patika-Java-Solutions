@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52b6d6b-ddab-4da9-93c6-21cc44c9c20e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TaximeterCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaOfCircleCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TriangleAreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TriangleAreaCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AreaOfCircleCalculator.executor": "Run",
     "Application.GradeAverageCalculator.executor": "Run",
     "Application.TaximeterCalculator.executor": "Run",
     "Application.TriangleAreaCalculator.executor": "Run",
