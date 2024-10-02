@@ -15,7 +15,9 @@ public class TriangleAreaCalculator {
 
         double u = (side1 + side2 + side3) / 2;
         double area = Math.sqrt(u * (u - side1) * (u - side2) * (u - side3));
-        System.out.println("Area of the triangle: " + area);
+        System.out.println("Area of the triangle: " + area); // Area of triengle print
+
+
 
 
     }

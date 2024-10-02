@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52b6d6b-ddab-4da9-93c6-21cc44c9c20e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TriangleAreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaximeterCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TriangleAreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TriangleAreaCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,12 +68,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.GradeAverageCalculator.executor": "Run",
+    "Application.TaximeterCalculator.executor": "Run",
+    "Application.TriangleAreaCalculator.executor": "Run",
     "Application.VATCalculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -85,5 +89,16 @@
       <updated>1726567215110</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
