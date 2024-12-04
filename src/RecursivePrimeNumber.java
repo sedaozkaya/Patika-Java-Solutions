@@ -25,7 +25,7 @@ public class RecursivePrimeNumber {
             return true;
         }
         if (num % divisor == 0) {
-            return false; r
+            return false; 
         }
         return isPrime(num, divisor + 1);
     }
