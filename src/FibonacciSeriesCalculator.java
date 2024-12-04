@@ -1,23 +1,16 @@
-import java.util.Scanner;
 
 public class FibonacciSeriesCalculator {
-    public static void main(String[] args) {
-        Scanner inp = new Scanner(System.in);
-        System.out.println("enter the number ıf elements: ");
-        int n = inp.nextInt();
-        fibonacci(n);
 
-    }
-    public static void fibonacci(int n){
-        int a = 0;
-        int b = 1;
-        int c;
-        System.out.print(a + " " + b + " ");
-        for (int i = 2; i < n; i++){
-            c = a + b;
-            System.out.print(c + " ");
-            a = b;
-            b = c;
+
+    public static int fibonacci(int n) {
+        if (n <= 1) {
+            return n;
         }
+        return fibonacci(n - 1) + fibonacci(n - 2);
+    }
+
+    public static void main(String[] args) {
+        int n = 5;
+        System.out.println(  n + ". number: " + fibonacci(n));
     }
 }
