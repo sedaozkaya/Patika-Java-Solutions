@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52b6d6b-ddab-4da9-93c6-21cc44c9c20e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FighterGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ring.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +89,7 @@
     "Application.BodyMassIndexCalculator.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.ClosestNumbers.executor": "Run",
+    "Application.FighterGame.executor": "Run",
     "Application.FindingRepeatingEvenNumbers.executor": "Run",
     "Application.FrequencyCounter.executor": "Run",
     "Application.FruitStoreCashRegister.executor": "Debug",
@@ -146,7 +146,7 @@
       <workItem from="1734690265827" duration="5255000" />
       <workItem from="1734706600765" duration="4522000" />
       <workItem from="1734766624280" duration="8000" />
-      <workItem from="1734852288161" duration="1868000" />
+      <workItem from="1734852288161" duration="2195000" />
     </task>
     <servers />
   </component>
