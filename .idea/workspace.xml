@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f52b6d6b-ddab-4da9-93c6-21cc44c9c20e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sedaozkaya&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
@@ -49,6 +57,12 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sedaozkaya/Patika-Java-Solutions.git&quot;,
+    &quot;accountId&quot;: &quot;87a6df39-ef82-4642-95ff-76edc1f5edc8&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Calculator.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -69,23 +83,51 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AdvancedCalculator.executor": "Run",
     "Application.AreaOfCircleCalculator.executor": "Run",
+    "Application.ArraySorting.executor": "Run",
+    "Application.Atm.executor": "Run",
     "Application.BodyMassIndexCalculator.executor": "Run",
     "Application.Calculator.executor": "Run",
+    "Application.ClosestNumbers.executor": "Run",
+    "Application.FindingRepeatingEvenNumbers.executor": "Run",
+    "Application.FrequencyCounter.executor": "Run",
     "Application.FruitStoreCashRegister.executor": "Debug",
     "Application.GradeAverageCalculator.executor": "Run",
+    "Application.MatrisTranspoze.executor": "Run",
+    "Application.MineSweeper.executor": "Run",
+    "Application.NumberGuessingGame.executor": "Run",
+    "Application.PalindromicWords.executor": "Run",
+    "Application.RecursivePattern.executor": "Run",
+    "Application.StudentInformationSystem.executor": "Run",
     "Application.TaximeterCalculator.executor": "Run",
     "Application.TriangleAreaCalculator.executor": "Run",
     "Application.UserLogin.executor": "Run",
     "Application.VATCalculator.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+    "last_opened_file_path": "/home/seda/IdeaProjects/Patika-Java-Solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,8 +136,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726567215110</updated>
+      <workItem from="1734005586244" duration="10000" />
+      <workItem from="1734008033440" duration="30000" />
+      <workItem from="1734012442613" duration="18000" />
+      <workItem from="1734531447714" duration="70000" />
+      <workItem from="1734535112658" duration="20000" />
+      <workItem from="1734596794986" duration="10383000" />
+      <workItem from="1734617670097" duration="5940000" />
+      <workItem from="1734690265827" duration="5255000" />
+      <workItem from="1734706600765" duration="4522000" />
+      <workItem from="1734766624280" duration="8000" />
+      <workItem from="1734852288161" duration="1868000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
